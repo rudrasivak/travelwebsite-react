@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rudrasivak/travelwebsite-react/static/css/main.71ef7061.css",
+    "main.js": "/rudrasivak/travelwebsite-react/static/js/main.439ae359.js",
+    "static/media/img-2.jpg": "/rudrasivak/travelwebsite-react/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-9.jpg": "/rudrasivak/travelwebsite-react/static/media/img-9.f97f588f3670715d01b2.jpg",
+    "index.html": "/rudrasivak/travelwebsite-react/index.html",
+    "main.71ef7061.css.map": "/rudrasivak/travelwebsite-react/static/css/main.71ef7061.css.map",
+    "main.439ae359.js.map": "/rudrasivak/travelwebsite-react/static/js/main.439ae359.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71ef7061.css",
+    "static/js/main.439ae359.js"
+  ]
+}
